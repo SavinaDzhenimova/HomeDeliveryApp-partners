@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56bffd6c-ef5d-43d0-9957-ad3889582d29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/config/PartnerApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/config/RestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/model/entity/Partner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/model/exportDTO/PartnerDetailsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/model/importDTO/AddPartnerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/repository/PartnerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/service/PartnerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/service/interfaces/PartnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/web/rest/PartnerRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/templates/partners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/model/entity/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/model/entity/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/service/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/java/com/homedelivery/service/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/i18n/messages_bg.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/i18n/messages_bg.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/i18n/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/i18n/messages_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/templates/fragments/commons.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/templates/fragments/commons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/i18n/messages_bg.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/i18n/messages_bg.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/i18n/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/i18n/messages_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/templates/fragments/commons.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/templates/fragments/commons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeDeliveryApp-main/target/classes/templates/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../HomeDeliveryApp-main" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jMvEiNDT4dn3BC0tsQIKdugBWw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/HomeDeliveryApp-main&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HomeDeliveryApplication">
+    <configuration name="HomeDeliveryApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="db_username" value="root" />
+        <env name="db_password" value="Savina1905" />
+        <env name="mail_user" value="homedeliveryteambulgaria@gmail.com" />
+        <env name="mail_password" value="qvkz ztil imal mxrh" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.homedelivery.HomeDeliveryApplication" />
+      <module name="HomeDeliveryApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartnersApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="db_username" value="root" />
+        <env name="db_password" value="Savina1905" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.homedelivery.partners.PartnersApplication" />
+      <module name="partners" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="ComposePreviewRunConfiguration" nameIsGenerated="true">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="--es composable " />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="androidx.compose.ui.tooling.PreviewActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="true" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <compose-preview-run-configuration composable-fqn="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HomeDeliveryApplication" />
+      <item itemvalue="Application.PartnersApplication" />
+      <item itemvalue="Compose Preview.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56bffd6c-ef5d-43d0-9957-ad3889582d29" name="Changes" comment="" />
+      <created>1721209651306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721209651306</updated>
+    </task>
+    <servers />
+  </component>
+</project>
